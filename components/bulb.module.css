@@ -1,0 +1,69 @@
+.purple{
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.88), purple, purple, purple );
+    box-shadow: purple 1px 1px 22px 3px, purple 0px 0px 6px 1px;
+    border-color: purple;
+}
+
+.red{
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.88), red, red, red );
+    box-shadow: red 1px 1px 22px 3px, red 0px 0px 6px 1px;
+    border-color: red;
+}
+
+.orange{
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.88), orange, orange, orange );
+    box-shadow: orange 1px 1px 22px 3px, orange 0px 0px 6px 1px;
+    border-color: orange;
+}
+
+.green{
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.88), green, green, green );
+    box-shadow: green 1px 1px 22px 3px, green 0px 0px 6px 1px;
+    border-color: green;
+}
+
+.yellow{
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.88), yellow, yellow, yellow );
+    box-shadow: yellow 1px 1px 22px 3px, yellow 0px 0px 6px 1px;
+    border-color: yellow;
+}
+
+.cyan{
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.88), cyan, cyan, cyan );
+    box-shadow: cyan 1px 1px 22px 3px, cyan 0px 0px 6px 1px;
+    border-color: cyan;
+}
+
+.aqua{
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.88), aqua, aqua, aqua );
+    box-shadow: aqua 1px 1px 22px 3px, aqua 0px 0px 6px 1px;
+    border-color: aqua;
+}
+
+.azure{
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.88), azure, azure, azure );
+    box-shadow: azure 1px 1px 22px 3px, azure 0px 0px 6px 1px;
+    border-color: azure;
+}
+
+.beige{
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.88), beige, beige, beige );
+    box-shadow: beige 1px 1px 22px 3px, beige 0px 0px 6px 1px;
+    border-color: beige;
+}
+
+.cornflowerblue{
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.88), cornflowerblue, cornflowerblue, cornflowerblue );
+    box-shadow: cornflowerblue 1px 1px 22px 3px, cornflowerblue 0px 0px 6px 1px;
+    border-color: cornflowerblue;
+}
+
+.brown{
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.88), brown, brown, brown );
+    box-shadow: brown 1px 1px 22px 3px, brown 0px 0px 6px 1px;
+    border-color: brown;
+}
+
+.default{
+    background-color: black;
+}
